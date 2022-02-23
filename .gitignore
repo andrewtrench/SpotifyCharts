@@ -1,0 +1,5 @@
+credentials.py
+.cache
+.ipynb_checkpoints/**
+chromedriver.exe
+~$key_dates.xlsx
