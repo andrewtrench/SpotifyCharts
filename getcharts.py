@@ -3,7 +3,7 @@
 from datetime import datetime, timedelta
 from time import sleep
 
-from bushbaby import BushBaby
+from bushbaby import BushBaby # my own Selenium code for scraping
 
 end_date = datetime(day=11, month=2,
                     year=2022)  # must set this to the latest date which is always one day ahead of what is
